@@ -1,25 +1,32 @@
-class Reciepes
-    attr_accessor = :reciepes, :answer  
-    def initialize
-        @reciepes = new_reciepe
-        new_reciepe = []
 
+class Reciepes
+    attr_accessor :salad_list, :sandwich_list, :cake_list 
+
+    def initialize
+    
+        @salad_list = {
+            "Fruit salad" => ["ingredients", "instructions"],
+            "Potato salad" => ["test", "test"],
+            "Green salad" => ["test", "test"]
+        }
+
+        @sandwich_list = {
+            "Eggs sandwich" => ["ingredients", "instructions"],
+            "Ham sandwich" => ["test", "test"],
+            "Chicken sandwich" => ["test", "test"]
+        }       
+        
+        @cake_list = {
+            "Bannana cake" => ["ingredients", "instructions"],
+            "Carrot cake" => ["test", "test"],
+            "Sponge cake" => ["test", "test"]
+        }
     end
 
-    def add_reciepies
-    reciepe = ""
-    @answer = answer
 
-        puts "would you like to add a new reciepe?"
-        answer = gets.chomp
 
-        if @answer == yes 
-            puts "Please enter the name of your reciepe "
-            reciepe_name = gets.chomp.capitalize
-        else
-            puts "See you next time"
-        
+ 
 
-    #end
-    
-end
+  
+
+
