@@ -22,6 +22,7 @@ class Reciepes
             "Sponge cake" => ["test", "test"]
         }
     end
+end
 
 
 
