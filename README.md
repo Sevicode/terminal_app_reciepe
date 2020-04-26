@@ -10,9 +10,20 @@ by Sevda Amini
 * Target Audiance 
 * How the audiance will use ** Little Reciepe App **
 
-## Features
+### Features
 
-## User Interface and Experience
+### User Interface and Experience
+
+### Control Flow Diagram
+
+## Implementation Plan
+
+## Testing
+
+## Installation Instructions
+
+## Resources
+
 
 
 
