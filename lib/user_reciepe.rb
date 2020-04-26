@@ -8,3 +8,5 @@ class UserReciepe
     end
 
 end
+
+reciepe1 = UserReciepe.new 
