@@ -8,6 +8,5 @@ class Menus
           @sandwich_menu = "Egg sandwich", "Ham sandwich", "Chicken sandwich"
         end
 
-
     end
      

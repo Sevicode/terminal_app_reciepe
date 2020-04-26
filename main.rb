@@ -1,7 +1,7 @@
 require "tty-prompt"
 require_relative('./lib/menus')
-
 require_relative('./lib/reciepes')
+require_relative('./lib/user_reciepe')
 
 #-------this is the main page for running the app / Main class starts here------
 class Main 
@@ -65,6 +65,9 @@ attr_accessor :main_menu
                         
 
             end
+
+ 
+
 
            
         #---------displaying user's requested SANDWICH reciepe ----
@@ -134,10 +137,9 @@ attr_accessor :main_menu
                 puts "Sorry! this reciepe does not exist!"
 
             end
-    
 
-    else
-        puts "Does not exist. Please make enother selection."
+        else
+            puts "Does not exist. Please make enother selection."
         
     end
 
