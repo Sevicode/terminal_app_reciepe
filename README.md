@@ -42,10 +42,22 @@ I have tried to make this app visually appealing for the user with using various
 
 
 ## Implementation Plan
+I discussed the idea of developing a memory game with Varsha. I was asked how I am going to implement various graphicals aspects and I came up with 2D gem. After getting the confirmation and working for couple of days on memory game I realized that 2D gem is not for Terminal apps and I have find another way. Since I had only Sunday and Monday so I came up with the idea of creating a recipe plan. 
+
+The app in current state works perfectly, however it is very simple.
+As I have displayed in my flowchart above I am planning to add some more features to that in the future. 
 
 
 
-## Testing
+![](/images/trello.png)
+
+## Future Implementations
+
+* Creating a great resource of recipes
+* Having more detailed classification for recipes
+* User will be able to create their own folder
+* User will be able to save the recipes
+* User will be able to share the recipes
 
 ## Installation Instructions and Use
 
