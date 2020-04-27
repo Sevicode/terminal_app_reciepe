@@ -34,12 +34,16 @@ The following groups will enjoy using this app:
 * The app in current state is more applicable for kids!
 
 ### User Interface and User Experience
-I have tried to make the 
+I have tried to make this app visually appealing for the user with using various techniques and gems. In example, I used ASCII art for creating the logo and Colorized gem to style the different parts of it. 
 
 
 ### Control Flow Diagram
+![](/images/flowchart.png)
+
 
 ## Implementation Plan
+
+
 
 ## Testing
 
