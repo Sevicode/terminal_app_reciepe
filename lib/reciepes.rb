@@ -24,7 +24,7 @@ class Reciepes
     end
 end
 
-hash.update 
+ 
 
  
 

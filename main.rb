@@ -3,7 +3,6 @@ require 'colorize'
 require 'tty-cursor'
 require_relative('./lib/menus')
 require_relative('./lib/reciepes')
-require_relative('./lib/user_reciepe')
 require_relative('./lib/ascii_img')
 require_relative('./lib/welcome_screen')
 
@@ -16,6 +15,7 @@ CURSOR.invisible do
   end
 #-------this is the main page for running the app / Main class starts here------
 class Main 
+
 attr_accessor :main_menu 
      
     def initialize 

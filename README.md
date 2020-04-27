@@ -25,7 +25,6 @@ The following groups will enjoy using this app:
 * Busy people who struggle with comming up with food ideas for their everyday meal plan
 * Beginners who just starting cooking 
 
-#### How the audiance will use ** Little Reciepe App **
 
 ### Features
 
@@ -37,9 +36,30 @@ The following groups will enjoy using this app:
 
 ## Testing
 
-## Installation Instructions
+## Installation Instructions and Use
+
+1. Install ruby from [here](https://www.ruby-lang.org/en/) on your computer.
+2. install Bundller gem wusing the following command:
+
+    <code>gem install bundler</code>
+
+3. Fork or clone this repository down to your local computer
+4. To install the gem(s) required, navigate to the location of <code>terminal_app_reciepes</code> folder on your computer and used the command:
+
+    <code>bundle install</code>
+
+5. Run the app with:
+
+    <code>ruby main.rb</code>
+    
+
 
 ## Resources
+
+* http://patorjk.com
+* https://ttytoolkit.org/
+* https://rubygems.org/gems/colorize/
+
 
 
 
