@@ -1,3 +1,5 @@
+
+![](/images/welcome_img.png)
 # Little Recipe App
 by Sevda Amini
 
@@ -9,11 +11,16 @@ This app is a MVP of a collection of example reciepes for a Little Reciepe App. 
 #### Functionality
 On commencing the app, the user is asked to choose the recipe type from the main menu which displays three options of Salads, Sandwiches and Cakes. 
 
-** insert screen shot **
+![](/images/s_1.png)
 
 Each of the three main menu options comes with three sub-category. Thre are prompted so user can choose between three options. 
 
-**insert screen **
+![](/images/s_2.png)
+
+
+![](/images/s_3.png)
+
+![](/images/s_4.png)
 
 
 if the user has had a final selection, they will be prompted with yes or no question asking if they would like to add a new menu for future use.
@@ -24,11 +31,11 @@ The following groups will enjoy using this app:
 * Whoever which has a passion for cooking and trying new recipes 
 * Busy people who struggle with comming up with food ideas for their everyday meal plan
 * Beginners who just starting cooking 
+* The app in current state is more applicable for kids!
 
+### User Interface and User Experience
+I have tried to make the 
 
-### Features
-
-### User Interface and Experience
 
 ### Control Flow Diagram
 
@@ -39,7 +46,7 @@ The following groups will enjoy using this app:
 ## Installation Instructions and Use
 
 1. Install ruby from [here](https://www.ruby-lang.org/en/) on your computer.
-2. install Bundller gem wusing the following command:
+2. install Bundller gem using the following command:
 
     <code>gem install bundler</code>
 
